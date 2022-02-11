@@ -1,4 +1,4 @@
-# Set-Mood---DApp
+# Set-Mood- DApp
 This is a simple Decentralized application I made.
 
 Firstly You need to run lite-server after that on the localhost:3000 you will see a interface like this -
